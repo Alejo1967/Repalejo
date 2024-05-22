@@ -68,4 +68,5 @@ For this workshop you need the following:
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
 
-esto es para puch
+esto dispara puch
+esto no dispara el puch
